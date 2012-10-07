@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["dave@themoultons.net"]
   gem.description   = %q{Use famfamfam-silk icons as bootstrap sprites}
   gem.summary       = %q{This gem allows easy use of the famfamfam silk icons}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/dmoulton/silk-bootstrap-rails"
 
   gem.files         = Dir["{lib,vendor}/**/*"] + ["LICENSE", "README.md"]
   gem.name          = "silk-bootstrap-rails"
