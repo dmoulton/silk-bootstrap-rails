@@ -1,6 +1,6 @@
 # silk-bootstrap-rails
 
-silk-bootsrap-rails allows easy use as sprites of the famfamfam silk icons found at <http://www.famfamfam.com/lab/icons/silk>. I appreciate the free release of these icons, as well as the favbulous for the instructions on how to turn them into sprites <http://goo.gl/DLvvj>.
+silk-bootsrap-rails allows easy use of the famfamfam silk icons found at <http://www.famfamfam.com/lab/icons/silk> as bootsrap icons. I appreciate the free release of these icons, as well as favbulous for the instructions on how to turn them into sprites <http://goo.gl/DLvvj>.
 
 ## Installation
 
