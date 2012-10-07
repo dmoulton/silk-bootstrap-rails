@@ -22,7 +22,7 @@ Add to your assets/stylesheets/application.css:
 
 	*= require silk-icons
 	
-Use them just like you would the Glyphicons includes with bootstrap, replacing icon- with silk- :
+Use them just like you would the Glyphicons included with bootstrap, replacing icon- with silk- :
 
 	<i class="silk-clock"></i>
 	 
